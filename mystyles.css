@@ -1,0 +1,100 @@
+/*Cole Bennee december 17*/
+body {
+    background-image: url();
+}
+
+h1 {
+    color: whitesmoke;
+}
+.hometitle {
+    color:whitesmoke;
+    font-weight: 600;
+}
+.subtext {
+    color: grey;
+    font-size: x-large;
+    font-family: cursive;
+    text-align: left;
+    
+
+}
+.smallc {
+    color: grey;
+    font-size: small;
+    font-family: cursive;
+    text-align: left;
+    font-weight: 400;
+}
+.regc{
+    color: grey;
+    font-size: large;
+    font-style: italic;
+    text-align: center;
+    font-weight: 400;
+}
+.quote{
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: 400;
+    color: gray;
+    text-align: center;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #575757;
+    background-color: rgb(130, 214, 235);
+    background-image: url('../images/christmas-dark.png');
+    background-repeat: repeat repeat-y;
+}
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color: #575757;
+
+}
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+a:hover {
+    text-decoration: underline;
+
+}
+
+a:visited {
+    color: blue; 
+}
+.resumelistheading {
+    font-weight: bold;
+    font-style: normal;
+    text-align: left;
+}
+
+
+.underline {text-decoration: underline;}
+
+.bold {font-weight: bold;}
+
+.justify {text-align: justify;}
+
+.tableaupara {
+    font-size: large;
+    color: whitesmoke;
+}
+
+.homebg {
+    
+    background-position: bottom right;
+    background-repeat: repeat; /*chrome version*/
+}
+.xmasbg {
+    background-image: url('../images/christmas-dark.png');
+    background-repeat: repeat; /*chrome version*/
+}
+.buildingsbg {
+    background-image: url(../images/buildings.jpeg);
+    background-position: bottom;
+}

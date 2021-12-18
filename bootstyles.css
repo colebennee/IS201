@@ -1,0 +1,52 @@
+/*Cole Bennee december 17*/
+body {
+    background-color: #555555;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.common {
+    background-color: hsl(168, 45%, 98%);
+    border: solid 2px white;
+    position:relative; 
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 200px;
+    background-image: url('../images/christmas-dark.png');
+}
+.tableau {
+    top: 114px;
+    bottom: 64px;
+    left: 5px;
+    right: 5px;
+}
+
+.footer {
+    bottom: 5px;
+    height: 25px;
+    right: 5px;
+    left: 5px;
+    font-size: 11px;
+    color: #1d1b1b;
+    text-align: center; 
+    text-decoration: darkorchid;
+}
+.foot {
+    background-color: rgb(71, 71, 71);
+}
+p {
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+a {
+    color: whitesmoke;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-large;
+}
+.red{
+    color: crimson;
+}
